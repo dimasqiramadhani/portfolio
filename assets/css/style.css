@@ -521,8 +521,6 @@ main {
  * #service 
  */
 
-.service { margin-bottom: 18px; }
-
 .service-title { margin-bottom: 20px; }
 
 .service-list {
@@ -568,8 +566,6 @@ main {
 /**
  * #testimonials 
  */
-
-.testimonials { margin-bottom: 18px; }
 
 .testimonials-title { margin-bottom: 20px; }
 
@@ -1062,8 +1058,6 @@ main {
   border: none;
   filter: grayscale(1) invert(1);
 }
-
-.contact-form { margin-bottom: 10px; }
 
 .form-title { margin-bottom: 20px; }
 
