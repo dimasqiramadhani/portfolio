@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { FaGithub, FaLinkedin, FaJs, FaHtml5, FaCss3Alt, FaGit, FaReact, FaEnvelope, FaPhone, FaArrowDown } from "react-icons/fa";
+import { FaGithub, FaLinkedin,FaEnvelope, FaPhone, FaArrowDown } from "react-icons/fa";
 import { Card, CardContent } from "@/components/ui/card";
 
 import Image from "next/image";
